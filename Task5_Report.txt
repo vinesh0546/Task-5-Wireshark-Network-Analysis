@@ -1,0 +1,27 @@
+# Network Traffic Analysis Report
+
+**Task:** Cyber Security Internship – Task 5
+
+## Objective
+To capture and analyze network traffic using Wireshark.
+
+## Tools Used
+Wireshark and Npcap.
+
+## Protocols Observed
+1. **TCP:** Supports reliable data transmission.
+2. **TLSv1.2:** Provides encrypted communication.
+3. **DHCPv6:** Supports IPv6 network configuration.
+
+## Procedure
+1. Started packet capture on the active network interface.
+2. Generated network traffic.
+3. Observed packets in Wireshark.
+4. Identified the protocols using packet details and display filters.
+5. Saved the packet capture file.
+
+## Result
+Network traffic was captured successfully, and three protocols were observed in Wireshark.
+
+## Conclusion
+This task provided practical experience in packet capture, protocol identification, and basic network traffic analysis.
